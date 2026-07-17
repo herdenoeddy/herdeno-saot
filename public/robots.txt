@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://herdeno.sg/sitemap.xml
