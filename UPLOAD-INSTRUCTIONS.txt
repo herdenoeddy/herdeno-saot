@@ -1,0 +1,18 @@
+STOP BEFORE COMMITTING
+
+One file must be added first:
+public/assets/taqwa-official.jpg
+
+Use the official TAQWA logo image already saved on your device.
+Rename it exactly: taqwa-official.jpg
+
+Then:
+1. Open GitHub repository herdenoeddy/herdeno-saot.
+2. Tap Add file > Upload files.
+3. Upload the unzipped project files and folders.
+4. Commit message: Deploy GARUDA Executive Digital Profile v5.0
+5. Commit directly to main.
+6. Cloudflare will automatically start its first build.
+7. Wait for SUCCESS before testing Herdeno.sg.
+
+Your existing manually deployed website remains live unless the Git build succeeds.
